@@ -1,0 +1,16 @@
+table {
+margin: 3rem;
+background-color: aqua;
+}
+
+tr {
+    background-color: #e5e5e5;
+}
+
+tr {
+    text-align: left;
+}
+
+td {
+    padding: 16px;
+}
